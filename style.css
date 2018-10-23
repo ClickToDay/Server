@@ -1,0 +1,39 @@
+body {
+	background-image: image()
+	color: #3BFBB7;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	text-align: center;
+	border-radius: 4px;
+	background-color: #000000;
+}
+div {
+	background-color: transparent;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-size: medium;
+	text-align: center;
+}
+.row .col-md-8 a {
+	color: #F900BA;
+}
+
+
+.t_title {
+	text-align: center;
+	color: #00F50C;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size: small;
+}
+.btn{
+	color: darkorange;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-size: small;
+}
+.table{
+	color: #00FF0C;
+	border: thin groove #ACF800;
+}
